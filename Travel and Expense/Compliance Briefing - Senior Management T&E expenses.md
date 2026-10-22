@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097997297946624 -->
+<!-- Original File: Compliance Briefing - Senior Management T&E expenses.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Travel and Expense/Compliance Briefing - Senior Management T&E expenses.pdf -->
+
 CONFIDENTIAL – INTERNAL USE ONLY
 February 2026
 COMPLIANCE BRIEFING

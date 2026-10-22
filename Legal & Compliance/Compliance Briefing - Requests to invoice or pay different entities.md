@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097926628118528 -->
+<!-- Original File: Compliance Briefing - Requests to invoice or pay different entities.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Legal & Compliance/Compliance Briefing - Requests to invoice or pay different entities.pdf -->
+
 COMPLIANCE BRIEFING
 Requests to invoice or pay different entities
 # Owner Version Last Update Comments

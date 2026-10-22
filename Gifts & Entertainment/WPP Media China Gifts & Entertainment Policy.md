@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097960786530305 -->
+<!-- Original File: WPP Media China Gifts & Entertainment Policy.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Gifts & Entertainment/WPP Media China Gifts & Entertainment Policy.docx -->
+
 # Gifts & Entertainment Policy, WPP Media China
 礼品与招待政策（中国）
 

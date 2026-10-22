@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097986526973952 -->
+<!-- Original File: Brokers_Info and Approval forms.xlsx -->
+<!-- Original Type: XLSX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Media Vendor/Appendix/Appendix - Media Vendor Set-up and Contract Management/Brokers_Info and Approval forms.xlsx -->
+
 ## Broker Approval Form
 
 | Broker approval form |

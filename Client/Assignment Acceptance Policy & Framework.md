@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097979610566656 -->
+<!-- Original File: Assignment Acceptance Policy & Framework.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Client/Assignment Acceptance Policy & Framework.pdf -->
+
 ASSIGNMENT
 ACCEPTANCE
 POLICY &

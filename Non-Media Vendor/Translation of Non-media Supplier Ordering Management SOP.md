@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097942377730048 -->
+<!-- Original File: Translation of Non-media Supplier Ordering Management SOP.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/Translation of Non-media Supplier Ordering Management SOP.docx -->
+
 **Translation of Non-media Supplier Ordering Management SOP**
 
 **Purpose and scope**

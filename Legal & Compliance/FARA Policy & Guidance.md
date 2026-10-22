@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097927190155264 -->
+<!-- Original File: FARA Policy & Guidance.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Legal & Compliance/FARA Policy & Guidance.pdf -->
+
 PRIVATE & CONFIDENTIAL – FOR INTERNAL USE ONLY
 FARA POLICY & GUIDANCE
 

@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097983045701632 -->
+<!-- Original File: Appendix 3_Y25美图供应商比稿评分标准.xlsx -->
+<!-- Original Type: XLSX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Media Vendor/Appendix/Appendix - Media Management Guideline for Significant Intermediary Pitching/Appendix 3_Y25美图供应商比稿评分标准.xlsx -->
+
 ## 评估标准
 
 | 美图供应商招标比稿评分标准 |

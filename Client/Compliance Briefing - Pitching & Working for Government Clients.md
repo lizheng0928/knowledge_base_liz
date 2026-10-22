@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097981930016768 -->
+<!-- Original File: Compliance Briefing - Pitching & Working for Government Clients.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Client/Compliance Briefing - Pitching & Working for Government Clients.pdf -->
+
 CONFIDENTIAL – INTERNAL USE ONLY
 COMPLIANCE BRIEFING
 Pitching & Working for Government Clients

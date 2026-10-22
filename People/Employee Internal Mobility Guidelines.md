@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097957603053568 -->
+<!-- Original File: Employee Internal Mobility Guidelines.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/People/Employee Internal Mobility Guidelines.pdf -->
+
 员工内部人才流动指南
 Employee Internal Mobility Guidelines
 WPP Media China Talent Team

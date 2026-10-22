@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097997289558016 -->
+<!-- Original File: Global Travel and Expense Policy.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Travel and Expense/Global Travel and Expense Policy.docx -->
+
 & EXPENSE POLICY 
 
 

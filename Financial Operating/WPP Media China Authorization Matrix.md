@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097949969420288 -->
+<!-- Original File: WPP Media China Authorization Matrix.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Financial Operating/WPP Media China Authorization Matrix.docx -->
+
 **WPP MEDIA CHINA**
 
 **Authorization Matrix**

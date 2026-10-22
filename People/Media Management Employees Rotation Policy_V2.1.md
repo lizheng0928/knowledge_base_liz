@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097951634558976 -->
+<!-- Original File: Media Management Employees Rotation Policy_V2.1.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/People/Media Management Employees Rotation Policy_V2.1.docx -->
+
 # WPP MEDIA 中国 - 媒体管理员工轮岗政策
 
 **介绍：**

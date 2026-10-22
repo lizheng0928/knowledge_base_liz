@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097969963667456 -->
+<!-- Original File: Review WPP Hotel Directory酒店名录查询.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Admin Helpdesk/Review WPP Hotel Directory酒店名录查询.pdf -->
+
 Review WPP Hotel Directory 酒店名录查询
 STEP ONE
 Log-in “Travel–insideWPP” through your OKTA credentials.

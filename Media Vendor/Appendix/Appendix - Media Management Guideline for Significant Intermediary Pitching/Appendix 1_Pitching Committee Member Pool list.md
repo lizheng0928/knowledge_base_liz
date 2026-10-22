@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097983075061761 -->
+<!-- Original File: Appendix 1_Pitching Committee Member Pool list.xlsx -->
+<!-- Original Type: XLSX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Media Vendor/Appendix/Appendix - Media Management Guideline for Significant Intermediary Pitching/Appendix 1_Pitching Committee Member Pool list.xlsx -->
+
 ## Sheet1
 
 |  | Role | Team Head | Member Name | Expertise Domain (Media Type) | Notes |

@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097928502972416 -->
+<!-- Original File: Supplier on-Boarding SOP.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/Supplier on-Boarding SOP.docx -->
+
 
 
 

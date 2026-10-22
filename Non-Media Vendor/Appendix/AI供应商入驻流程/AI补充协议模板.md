@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097931405430784 -->
+<!-- Original File: AI补充协议模板.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/Appendix/AI供应商入驻流程/AI补充协议模板.docx -->
+
 生成式人工智能产品及服务订购补充协议
 
 

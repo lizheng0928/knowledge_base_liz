@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097947092127744 -->
+<!-- Original File: WPP公平处理公告-中国.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Data & IT/WPP公平处理公告-中国.docx -->
+
 WPP公平处理公告-中国
 
 1.    关于本公平处理公告

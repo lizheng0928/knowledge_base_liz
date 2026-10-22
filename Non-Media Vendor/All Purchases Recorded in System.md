@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097938078568448 -->
+<!-- Original File: All Purchases Recorded in System.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/All Purchases Recorded in System.docx -->
+
 **All Purchases Recorded in System**
 
 Issued in August 2023

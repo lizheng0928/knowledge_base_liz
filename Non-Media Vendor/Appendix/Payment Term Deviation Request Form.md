@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097931992633344 -->
+<!-- Original File: Payment Term Deviation Request Form.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/Appendix/Payment Term Deviation Request Form.docx -->
+
 ## PURPOSE
 
 Aside from the allowable deviations set out in the Payment Terms Guidance, any deviation from the standard Net 60-day terms must be in place first before any commitment to purchase is made.

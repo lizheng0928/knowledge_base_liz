@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097940851003392 -->
+<!-- Original File: AI供应商入驻流程.pptx -->
+<!-- Original Type: PPTX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/AI供应商入驻流程.pptx -->
+
 ## Slide 1
 
 AI供应商入驻流程

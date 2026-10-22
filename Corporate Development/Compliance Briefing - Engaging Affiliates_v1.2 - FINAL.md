@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097912623337472 -->
+<!-- Original File: Compliance Briefing - Engaging Affiliates_v1.2 - FINAL.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Corporate Development/Compliance Briefing - Engaging Affiliates_v1.2 - FINAL.pdf -->
+
 COMPLIANCE BRIEFING
 Engaging Affiliates
 Version Owner / Updated by Last Update Key changes

@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097923079737344 -->
+<!-- Original File: Paying non-WPP agencies.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Legal & Compliance/Paying non-WPP agencies.pdf -->
+
 PAYING NON-WPP AGENCIES
 Including commission & rebate share arrangements
 Version Updated by Last Update Key changes

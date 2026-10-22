@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097936577007616 -->
+<!-- Original File: Non-media client appointment of supplier general.pptx -->
+<!-- Original Type: PPTX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/Appendix/Non-media client appointment of supplier general.pptx -->
+
 ## Slide 1
 
 ### 推荐客户指定供应商函件格式

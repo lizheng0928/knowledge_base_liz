@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097912405233665 -->
+<!-- Original File: Acquisitions, Business Transfers and Affiliations Policy.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Corporate Development/Acquisitions, Business Transfers and Affiliations Policy.docx -->
+
 
 
 

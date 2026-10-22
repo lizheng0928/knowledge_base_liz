@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097979396657152 -->
+<!-- Original File: Client Commercial Approval Matrix.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Client/Client Commercial Approval Matrix.pdf -->
+
 WPP Media Author: Scott.Smith@WPPMedia.com Version & effective date: 20 April 2026
 Approval Matrix related to key client commercial topics. Applicable to all WPP Media Agencies.
 Previous version: 9 June 2014

@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097944697180160 -->
+<!-- Original File: Privacy Protection Protocal.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Data & IT/Privacy Protection Protocal.pdf -->
+
 PRIVACY PROTECTION
 PROTOCOL
 Common scenarios where you would need to complete the PPP form

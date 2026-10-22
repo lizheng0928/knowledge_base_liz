@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097952045600768 -->
+<!-- Original File: Short-Term Remote Work Policy.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/People/Short-Term Remote Work Policy.docx -->
+
 **Version control table**** **
 
 

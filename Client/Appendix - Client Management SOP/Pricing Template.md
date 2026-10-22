@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097975030386688 -->
+<!-- Original File: Pricing Template.xlsx -->
+<!-- Original Type: XLSX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Client/Appendix - Client Management SOP/Pricing Template.xlsx -->
+
 ## Change Log
 
 | 2023-09-19 00:00:00 | Client extraction rate (exc trading) forumla on row 11 should use Billings in row 26 related to client, not total billings |

@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097957657579520 -->
+<!-- Original File: WPP Media_DoI Manual Form_2025.xlsx -->
+<!-- Original Type: XLSX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/People/Appendix - Compliance Briefing - Employee Conflicts of Interests/WPP Media_DoI Manual Form_2025.xlsx -->
+
 ## MAIN FORM
 
 |  |  |  | DECLARATION OF INTEREST FORM |

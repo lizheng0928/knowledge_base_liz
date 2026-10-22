@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097960773947392 -->
+<!-- Original File: Sustainability Policy.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Sustainability/Sustainability Policy.docx -->
+
 **Sustainability Policy **
 
 We are committed to embedding sustainability across the business so that we can earn trust and deliver growth for our people, clients, and partners. Our approach to sustainability empowers our people, clients and partners to navigate complex change, capture new opportunities and drive growth. It is supported by a culture of integrity and transparency. 

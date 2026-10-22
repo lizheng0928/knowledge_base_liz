@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097916578566144 -->
+<!-- Original File: WPP Code of Business Conduct.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Legal & Compliance/WPP Code of Business Conduct.docx -->
+
 **WPP Code of Business Conduct **
 
 WPP and its companies operate in many markets and countries throughout the world. In all instances, we respect national laws and any other laws with an international reach, such as the UK Bribery Act, UK Economic Crime & Corporate Transparency Act and the US Foreign Corrupt Practices Act, and the UK Modern Slavery Act, where relevant, and industry codes of conduct. We are committed to acting ethically in all aspects of our business and to maintaining the highest standards of honesty and integrity.  

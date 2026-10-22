@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097912405233664 -->
+<!-- Original File: Real Estate Policy.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Corporate Development/Real Estate Policy.docx -->
+
 
 
 

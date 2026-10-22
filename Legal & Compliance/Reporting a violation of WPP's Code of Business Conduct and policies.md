@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097920198250496 -->
+<!-- Original File: Reporting a violation of WPP's Code of Business Conduct and policies.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Legal & Compliance/Reporting a violation of WPP's Code of Business Conduct and policies.docx -->
+
 **Reporting a violation of WPP’s Code of ****Business Conduct and policies**** **
 
 WPP employees who experience or hear about any behaviour which goes against WPP policies or consider there has been a violation of WPP’s Code of Business Conduct are encouraged to report their concerns promptly to their line manager, other managers or directly to their local People / HR lead. 

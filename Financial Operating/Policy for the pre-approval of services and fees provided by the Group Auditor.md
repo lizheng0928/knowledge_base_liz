@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097950300770304 -->
+<!-- Original File: Policy for the pre-approval of services and fees provided by the Group Auditor.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Financial Operating/Policy for the pre-approval of services and fees provided by the Group Auditor.docx -->
+
 **Policy for the pre-approval of services and fees provided by the Group Auditor  **
 
 **Updated June 2026  **

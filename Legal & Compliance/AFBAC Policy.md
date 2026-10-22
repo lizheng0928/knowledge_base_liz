@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097928075153408 -->
+<!-- Original File: AFBAC Policy.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Legal & Compliance/AFBAC Policy.docx -->
+
 **WPP’s Anti- Fraud, Bribery & Corruption Policy ****(“AFBAC Policy”) **
 
 

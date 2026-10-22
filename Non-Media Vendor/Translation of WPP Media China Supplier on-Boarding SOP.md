@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097940846809088 -->
+<!-- Original File: Translation of WPP Media China Supplier on-Boarding SOP.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/Translation of WPP Media China Supplier on-Boarding SOP.docx -->
+
 **Translation of ****WPP Media**** China Supplier on-Boarding SOP **
 
 **Purpose and scope**

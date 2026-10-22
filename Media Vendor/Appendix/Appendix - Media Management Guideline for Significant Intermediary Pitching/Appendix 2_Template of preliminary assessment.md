@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097984899584000 -->
+<!-- Original File: Appendix 2_Template of preliminary assessment.xlsx -->
+<!-- Original Type: XLSX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Media Vendor/Appendix/Appendix - Media Management Guideline for Significant Intermediary Pitching/Appendix 2_Template of preliminary assessment.xlsx -->
+
 ## 1.Shorlist Scoring
 
 |  |  |  | Scoring |

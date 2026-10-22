@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097946597199872 -->
+<!-- Original File: WPP 数据隐私及安全章程.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Data & IT/WPP 数据隐私及安全章程.pdf -->
+
 WPP Data Privacy & Security Charter
 WPP DATA PRIVACY &
 SECURITY CHARTER

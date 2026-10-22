@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097948333641728 -->
+<!-- Original File: Insurance Arrangements Policy.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Financial Operating/Insurance Arrangements Policy.docx -->
+
 
 
 

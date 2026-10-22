@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097953547161600 -->
+<!-- Original File: WPP Media中国2021版服务规范手册.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/People/WPP Media中国2021版服务规范手册.docx -->
+
 内部使用
 
 

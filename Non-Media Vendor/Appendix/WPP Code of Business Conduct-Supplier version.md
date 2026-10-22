@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097937625583616 -->
+<!-- Original File: WPP Code of Business Conduct-Supplier version.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Non-Media Vendor/Appendix/WPP Code of Business Conduct-Supplier version.pdf -->
+
 WPP Code of Business Conduct – Supplier Version
 WPP and its companies operate in many markets and countries throughout the world. In all
 instances, we respect national laws and any other laws with an international reach, such as the

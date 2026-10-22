@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097919409721344 -->
+<!-- Original File: Contract Review & Negotiation Guidance.pptx -->
+<!-- Original Type: PPTX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Legal & Compliance/Contract Review & Negotiation Guidance.pptx -->
+
 ## Slide 1
 
 ### 公司合同签约流程

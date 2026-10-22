@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097964754341888 -->
+<!-- Original File: WPP 社交媒体政策.docx -->
+<!-- Original Type: DOCX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Communication/WPP 社交媒体政策.docx -->
+
 
 **9**** ****WPP ****社交媒体政策**
 

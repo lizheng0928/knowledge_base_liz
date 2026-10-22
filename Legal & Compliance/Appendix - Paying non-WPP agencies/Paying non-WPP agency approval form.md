@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097922849050624 -->
+<!-- Original File: Paying non-WPP agency approval form.xlsx -->
+<!-- Original Type: XLSX -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Legal & Compliance/Appendix - Paying non-WPP agencies/Paying non-WPP agency approval form.xlsx -->
+
 ## Approval form
 
 | Paying non-WPP Agency  Approval Form |

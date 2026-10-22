@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097966637584384 -->
+<!-- Original File: Compliance Briefing - Gifts & Entertainment_August 2026_FINAL.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Gifts & Entertainment/Compliance Briefing - Gifts & Entertainment_August 2026_FINAL.pdf -->
+
 CONFIDENTIAL – INTERNAL USE ONLY
 COMPLIANCE BRIEFING
 Gif ts & Entertainment

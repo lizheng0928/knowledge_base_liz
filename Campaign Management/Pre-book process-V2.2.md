@@ -1,3 +1,8 @@
+<!-- Library File ID: 2112097914120704000 -->
+<!-- Original File: Pre-book process-V2.2.pdf -->
+<!-- Original Type: PDF -->
+<!-- Library Path: /Root/政策问答知识库/政策知识库问答机器人/Campaign Management/Pre-book process-V2.2.pdf -->
+
 PPrree--BBooookk PPrroocceessss((EEffffeeccttiivvee ffrroomm MMaayy 11sstt 22001199))
 MMaarrkkeettppllaaccee
 AApppplliiccaanntt SSyysstteemm NNeeggoo CChheecckkeerr MMMM AApppprroovveerr BBooookkiinngg TTeeaamm
